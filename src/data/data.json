@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken burger",
+        "description": "100 gr chicken + tomato + cheese  Lettuce",
+        "price": 20,
+        "rating": 3.8,
+        "quantity": 10,
+        "image": "Burger1"
+    },
+    {
+        "id": 2,
+        "name": "Chese burger",
+        "description": "100 gr meat + onion + tomato + Lettuce cheese",
+        "price": 15,
+        "rating": 4.5,
+        "quantity": 10,
+        "image": "Burger2"
+    },
+    {
+        "id": 3,
+        "name": "Onion Pizza",
+        "description": "Pizza Palace",
+        "price": 15,
+        "rating": 4.2,
+        "quantity": 10,
+        "image": "Burger3"
+    },
+    {
+        "id": 4,
+        "name": "Spicy Shawarma",
+        "description": "Hot Cool Spot",
+        "price": 15,
+        "rating": 3.9,
+        "quantity": 10,
+        "image": "Burger4"
+    },
+    {
+        "id": 5,
+        "name": "Chicken Spagetti",
+        "description": "1 Big Pack",
+        "price": 7,
+        "rating": 4.8,
+        "quantity": 10,
+        "image": "Burger5"
+    },
+    {
+        "id": 6,
+        "name": "Jollof Rice",
+        "description": "1 Combo pack",
+        "price": 10,
+        "rating": 4.0,
+        "quantity": 10,
+        "image": "Burger6"
+    },
+    {
+        "id": 7,
+        "name": "Fruity Pancakes",
+        "description": "Noodle Home",
+        "price": 12,
+        "rating": 3.5,
+        "quantity": 10,
+        "image": "Burger7"
+    },
+    {
+        "id": 8,
+        "name": "Pepper Pizza",
+        "description": "5kg box of Pizza",
+        "price": 15,
+        "rating": 4.6,
+        "quantity": 10,
+        "image": "Burger8"
+    }
+]
